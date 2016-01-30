@@ -19,7 +19,7 @@ a:hover { color: white; text-decoration: underline }
 </font>
 <br><br><br>
 <center>
-<img src=UFC_74_Respect_Bout.jpg border=1 width="1200" height="700"/>
+<img src="UFC_74_Respect_Bout.jpg" border="1" width="1200" height="700"/>
 <body bgcolor=#292421>
 		<center>
 <a href=index.html>Strona główna</a>
